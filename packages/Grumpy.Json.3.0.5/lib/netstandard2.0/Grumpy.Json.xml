@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Grumpy.Json</name>
+    </assembly>
+    <members>
+        <member name="T:Grumpy.Json.ObjectExtensions">
+            <summary>
+            Json extension methods for generic object class
+            </summary>
+        </member>
+        <member name="M:Grumpy.Json.ObjectExtensions.TrySerializeToJson``1(``0)">
+            <summary>
+            Returns the serialized object as Json if possible otherwise a error text, to be used in exception building
+            </summary>
+            <typeparam name="T">Type of object</typeparam>
+            <param name="obj">This object</param>
+            <returns>Serialized object as a string</returns>
+        </member>
+        <member name="M:Grumpy.Json.ObjectExtensions.SerializeToJson``1(``0)">
+            <summary>
+            Returns the serialized object in Json
+            </summary>
+            <typeparam name="T">Type of object</typeparam>
+            <param name="obj">This object</param>
+            <returns>Serialized object as a string</returns>
+        </member>
+        <member name="M:Grumpy.Json.ObjectExtensions.SerializeToJson``1(``0,System.Boolean)">
+            <summary>
+            Returns the serialized object in Json
+            </summary>
+            <typeparam name="T">Type of object</typeparam>
+            <param name="obj">This object</param>
+            <param name="formatJson">Should the Json be formatted</param>
+            <returns>Serialized object as a string</returns>
+        </member>
+        <member name="M:Grumpy.Json.ObjectExtensions.SerializeToJson``1(``0,Newtonsoft.Json.JsonSerializerSettings)">
+            <summary>
+            Returns the serialized obj in Json
+            </summary>
+            <typeparam name="T">Type of object</typeparam>
+            <param name="obj">This object</param>
+            <param name="settings">Serialize settings</param>
+            <returns>Serialized object as a string</returns>
+        </member>
+        <member name="M:Grumpy.Json.ObjectExtensions.SerializeToJson``1(``0,Newtonsoft.Json.Formatting,Newtonsoft.Json.JsonSerializerSettings)">
+            <summary>
+            Returns the serialized obj in Json
+            </summary>
+            <typeparam name="T">Type of object</typeparam>
+            <param name="obj">This object</param>
+            <param name="formatting">Formatting option</param>
+            <param name="settings">Serialize settings</param>
+            <returns>Serialized object as a string</returns>
+        </member>
+        <member name="T:Grumpy.Json.StringExtensions">
+            <summary>
+            Json extension methods for string class
+            </summary>
+        </member>
+        <member name="M:Grumpy.Json.StringExtensions.DeserializeFromJson``1(System.String)">
+            <summary>
+            Deserialize from a json string to a object
+            </summary>
+            <typeparam name="T">Type of return type</typeparam>
+            <param name="json">Json string to deserialize</param>
+            <returns>The object</returns>
+        </member>
+        <member name="M:Grumpy.Json.StringExtensions.DeserializeFromJson``1(System.String,Newtonsoft.Json.JsonSerializerSettings)">
+            <summary>
+            Deserialize from a json string to a object
+            </summary>
+            <typeparam name="T">Type of return type</typeparam>
+            <param name="json">Json string to deserialize</param>
+            <param name="settings">Settings for the serializer</param>
+            <returns>The object</returns>
+        </member>
+    </members>
+</doc>

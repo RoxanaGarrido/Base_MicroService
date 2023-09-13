@@ -1,0 +1,69 @@
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Base MicroService.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Base MicroService.pdb
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Data.Common.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.IO.Compression.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Net.Http.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Autofac.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\CacheManager.Core.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\CacheManager.SystemRuntimeCaching.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\CircuitBreaker.Net.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\CodeContracts.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\EasyNetQ.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Grumpy.Common.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Grumpy.Json.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Grumpy.Logging.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\log4net.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\NodaTime.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\ReflectSoftware.Insight.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Buffers.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Memory.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Threading.Channels.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Topshelf.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Validation.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Autofac.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\CacheManager.Core.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\CacheManager.SystemRuntimeCaching.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Grumpy.Common.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Grumpy.Json.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Grumpy.Logging.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\log4net.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\NodaTime.pdb
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\NodaTime.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\ReflectSoftware.Insight.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Buffers.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Memory.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Threading.Channels.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Topshelf.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\bin\Debug\Validation.xml
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\obj\Debug\Base MicroService.csproj.AssemblyReference.cache
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\obj\Debug\Base MicroService.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\obj\Debug\Base MicroService.csproj.CopyComplete
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\obj\Debug\Base MicroService.dll
+C:\Users\Roxana\VisualStudioProjects\Base_MicroSer\obj\Debug\Base MicroService.pdb

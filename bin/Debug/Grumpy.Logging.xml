@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Grumpy.Logging</name>
+    </assembly>
+    <members>
+        <member name="M:Grumpy.Logging.FormatExpression.Evaluate(System.Object[],System.Int32@,System.Collections.Generic.ICollection{System.String}@)">
+            <inheritdoc />
+        </member>
+        <member name="T:Grumpy.Logging.GrumpyFormatter">
+            <summary>
+            Formatter class for in string serialization and other extensions to string format
+            </summary>
+        </member>
+        <member name="M:Grumpy.Logging.GrumpyFormatter.Format(System.String,System.Object[])">
+            <summary>
+            Format String with in string serialization e.g. GrumpyFormatter.Format("Hallo {#obj.Name} {@MyObject}", obj, myObj)
+            </summary>
+            <param name="template">String Template</param>
+            <param name="objects">List of objects</param>
+            <returns>Formatted String</returns>
+        </member>
+        <member name="T:Grumpy.Logging.ObjectEvaluator">
+            <summary>
+            Copied from System.Web.UI.DataBinder (Framework) to be used in .NET Standard library
+            </summary>
+        </member>
+        <member name="T:Grumpy.Logging.StringExtensions">
+            <summary>
+            String Extension for Grumpy formatter
+            </summary>
+        </member>
+        <member name="M:Grumpy.Logging.StringExtensions.GrumpyFormat(System.String,System.Object[])">
+            <summary>
+            Format String with in string serialization e.g. "Hallo {#obj.Name} {@MyObject}".GrumpyFormat(obj, myObj)
+            </summary>
+            <param name="template">Template string</param>
+            <param name="objects">List of objects</param>
+            <returns>Formatted string</returns>
+        </member>
+    </members>
+</doc>
